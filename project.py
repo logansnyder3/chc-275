@@ -22,7 +22,7 @@ player_x = 100
 player_y = 360
 player_vel_y = 0
 gravity = 1
-jump_power = -20
+jump_power = -20   
 on_ground = True
 
 # Obstacles
