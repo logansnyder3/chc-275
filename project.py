@@ -121,5 +121,4 @@ while True:
         screen.fill(BG)
         screen.blit(txt, (W // 2 - txt.get_width() // 2, H // 2 - 40))
         pygame.display.flip()
-        clock.tick(390
-                   )
+        clock.tick(390)                
