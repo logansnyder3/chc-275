@@ -32,7 +32,6 @@ def get_stddev(lst):
     mean = get_mean(lst)
     total = 0
     for num in lst:
-        total += (num - mean) ** 2
     return math.sqrt(total / len(lst))
 
 def print_menu():
